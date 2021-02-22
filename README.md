@@ -2,7 +2,8 @@
 
 Trying to apply deep learning to cfd...
 
-Image based with data from openfoam
+Image based with data from openfoam.
+
 Source: https://github.com/IllusoryTime/Image-Based-CFD-Using-Deep-Learning
 
 ------------------------------------------------------------------------------------------------------------------------------------
