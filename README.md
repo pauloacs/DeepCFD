@@ -12,4 +12,5 @@ Source: https://github.com/IllusoryTime/Image-Based-CFD-Using-Deep-Learning
 PINN's from: https://github.com/maziarraissi/PINNs
 Check https://maziarraissi.github.io/PINNs/ for explanation.
 
-Adapting Navier-Stokes application to tensorflow 2.4...
+Adapting Navier-Stokes application to tensorflow 2.4 ---adam optimization working, but some bug with quasi-newton optimization (l-bfgs)
+
